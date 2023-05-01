@@ -12,7 +12,7 @@
    height="64"
    viewbox="0 0 64 64"
    id="svg42"
-   sodipodi:docname="windy-night.svg"
+   sodipodi:docname="windy-night-modif.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata46">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,13 +39,13 @@
      inkscape:window-height="1295"
      id="namedview44"
      showgrid="false"
-     inkscape:zoom="13.538309"
+     inkscape:zoom="13.4988"
      inkscape:cx="32"
      inkscape:cy="34.384286"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="171"
+     inkscape:window-y="124"
      inkscape:window-maximized="0"
-     inkscape:current-layer="cloudy-night-2"
+     inkscape:current-layer="svg42"
      inkscape:document-rotation="0" />
   <defs
      id="defs19">
@@ -81,6 +81,41 @@
     <style
        type="text/css"
        id="style17"><![CDATA[
+
+        ]]></style>
+    <filter
+       id="blur-5"
+       width="200%"
+       height="200%">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="3"
+         id="feGaussianBlur28" />
+      <feOffset
+         dx="0"
+         dy="4"
+         result="offsetblur"
+         id="feOffset30" />
+      <feComponentTransfer
+         id="feComponentTransfer34">
+        <feFuncA
+           type="linear"
+           slope="0.05"
+           id="feFuncA32" />
+      </feComponentTransfer>
+      <feMerge
+         id="feMerge40">
+        <feMergeNode
+           id="feMergeNode36" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode38" />
+      </feMerge>
+    </filter>
+    <style
+       type="text/css"
+       id="style43"><![CDATA[
+
 
         ]]></style>
   </defs>
@@ -139,15 +174,57 @@
            id="path35" />
       </g>
     </g>
+    <g
+       transform="matrix(0.7,0,0,0.7,4.3355856,22.270636)"
+       id="g59">
+      <path
+         class="am-weather-cloud-3"
+         d="m 13,26 h 20 a 5,5 0 0 0 0,-10 5,5 0 0 0 -5,5"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="5.4"
+         stroke-linecap="round"
+         id="path47" />
+      <path
+         class="am-weather-cloud-2"
+         d="m 10,32 h 35 a 5,5 0 0 0 0,-10 5,5 0 0 0 -5,5"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="5.4"
+         stroke-linecap="round"
+         id="path49" />
+      <path
+         class="am-weather-cloud-1"
+         d="m 16,38 h 22 a 5,5 0 0 1 0,10 5,5 0 0 1 -5,-5"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="5.4"
+         stroke-linecap="round"
+         id="path51" />
+      <path
+         class="am-weather-cloud-3"
+         d="m 13,26 h 20 a 5,5 0 0 0 0,-10 5,5 0 0 0 -5,5"
+         fill="none"
+         stroke="#57a0ee"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path53" />
+      <path
+         class="am-weather-cloud-2"
+         d="m 10,32 h 35 a 5,5 0 0 0 0,-10 5,5 0 0 0 -5,5"
+         fill="none"
+         stroke="#57a0ee"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path55" />
+      <path
+         class="am-weather-cloud-1"
+         d="m 16,38 h 22 a 5,5 0 0 1 0,10 5,5 0 0 1 -5,-5"
+         fill="none"
+         stroke="#57a0ee"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path57" />
+    </g>
   </g>
-  <path
-     class="cls-5"
-     d="m 35.287702,38.409952 a 2.1034187,2.1034187 0 0 1 2.078178,2.103418 v 0 a 2.1034187,2.1034187 0 0 1 -2.103419,2.103419 H 17.593743 a 2.5241026,2.5241026 0 0 0 -2.524102,2.524103 v 0 a 2.5241026,2.5241026 0 0 0 2.524102,2.524102 h 16.617009 a 1.682735,1.682735 0 0 1 1.682735,1.682735 v 0.06731 a 1.682735,1.682735 0 0 1 -1.682735,1.682735 h -1.472394"
-     id="path40"
-     style="fill:none;stroke:#a5a9aa;stroke-width:3.40446px;stroke-linecap:round;stroke-miterlimit:10" />
-  <path
-     class="cls-6"
-     d="m 41.993401,49.347729 a 1.682735,1.682735 0 0 0 1.682735,-1.682735 v 0 a 1.682735,1.682735 0 0 0 -1.682735,-1.682735 h -3.36547"
-     id="path42"
-     style="fill:none;stroke:#b9c1c6;stroke-width:3.40446px;stroke-linecap:round;stroke-miterlimit:10" />
 </svg>
