@@ -34,9 +34,9 @@ Icônes fixes blancs (variation 01):
 
 ## Installation:
 
-1/ Ajouter les dossiers avec les nouvelles icones dans votre dossier "disp".
+1/ Ajouter les dossiers avec les nouvelles icones disponible dans le dossier "disp" dans le dossier "/config/www/community/lovelace-meteofrance-weather-card/" de votre Home Assitant par ftp.
 
-2/ Choisissez votre jeux d'icones:
+2/ Choisissez votre jeux d'icones, example:
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons_2/
 ```
