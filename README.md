@@ -16,17 +16,17 @@ Icônes fixes bleus:
 /local/community/lovelace-meteofrance-weather-card/icons_1/ 
 ```
 
-Icônes fixes blancs (variation 01): 
+Icônes animées blancs: 
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons_2/ 
 ```
 
-Icônes animées blancs: 
+Icônes fixe blancs: 
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons_3/ 
 ```
 
-Icônes fixes blancs: 
+Icônes fixes blancs (variation 01): 
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons_4/ 
 ```
@@ -91,7 +91,7 @@ Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-color
 ![](/dist/icons_1/thunder.svg)
 
 
-### Icones fixes blancs (variation 1):
+### Icones animées blancs:
 ![](/dist/icons_2/day.svg)
 ![](/dist/icons_2/night.svg)
 ![](/dist/icons_2/windy-night.svg)
@@ -112,7 +112,7 @@ Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-color
 ![](/dist/icons_2/thunder.svg)
 
 
-### Icones animés blancs:
+### Icones fixes blancs:
 ![](/dist/icons_3/day.svg)
 ![](/dist/icons_3/night.svg)
 ![](/dist/icons_3/windy-night.svg)
@@ -133,7 +133,7 @@ Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-color
 ![](/dist/icons_3/thunder.svg)
 
 
-### Icones fixe blancs:
+### Icones fixe blancs (variation 1):
 ![](/dist/icons_4/day.svg)
 ![](/dist/icons_4/night.svg)
 ![](/dist/icons_4/windy-night.svg)
@@ -152,6 +152,3 @@ Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-color
 ![](/dist/icons_4/snowy-6.svg)
 ![](/dist/icons_4/snowy-rainy.svg)
 ![](/dist/icons_4/thunder.svg)
-
-
-
