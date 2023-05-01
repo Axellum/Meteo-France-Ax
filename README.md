@@ -3,8 +3,9 @@
 Complément pour la carte https://github.com/hacf-fr/lovelace-meteofrance-weather-card, proposer par ![Home Assistant Communauté Francophone](https://hacf.fr/).
 
 
-- Ajout de nouveaux jeux d'icônes (resortent mieux avec un thème sombre), possibilitée de remettre les icones d'origine (complété).
-- Différentiation des icônes sur certains arguments (Brouillard, Orage pluvieux, Pluie-neige, venteux), sur tout les jeux d'icônes.
+- Ajout de nouveaux jeux d'icônes en complément de l'original sur HACF.
+- Différentiation des icônes sur certains arguments sur tous les jeux pour la compatibilitée de la carte météo france (Brouillard, Orage pluvieux, Pluie-neige, venteux).
+- Icones fixes, améliore la compatibilitée sur Google Nest et moins gourments en ressources.
 
 
 ## Installation:
