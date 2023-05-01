@@ -7,15 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   id="Layer_1"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
-   width="63.299999"
-   height="63.299999"
-   viewbox="0 0 17 17"
-   id="svg32"
    sodipodi:docname="night.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata36">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,85 +36,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1770"
-     inkscape:window-height="1026"
-     id="namedview34"
+     inkscape:window-width="1492"
+     inkscape:window-height="1063"
+     id="namedview11"
      showgrid="false"
-     inkscape:zoom="6.439447"
-     inkscape:cx="16.5"
-     inkscape:cy="34.220522"
-     inkscape:window-x="1927"
-     inkscape:window-y="614"
+     inkscape:zoom="11.09982"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="night"
+     inkscape:current-layer="Layer_1"
      inkscape:document-rotation="0" />
   <defs
-     id="defs15">
-    <filter
-       id="blur"
-       width="2"
-       height="2">
-      <feComponentTransfer
-         id="feComponentTransfer4">
-        <feFuncA
-           type="linear"
-           slope="0.05"
-           id="feFuncA2" />
-      </feComponentTransfer>
-      <feMerge
-         id="feMerge10">
-        <feMergeNode
-           id="feMergeNode6" />
-        <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode8" />
-      </feMerge>
-    </filter>
+     id="defs4">
     <style
-       type="text/css"
-       id="style13"><![CDATA[
-
-
-]]></style>
+       id="style2">.cls-1{fill:#efcc00;}</style>
   </defs>
-  <g
-     filter="url(#blur)"
-     id="night">
-    <g
-       id="g29"
-       transform="matrix(1.7637131,0,0,1.7637131,7.733259,8.3544304)">
-      <g
-         class="am-weather-star-2"
-         id="g19">
-        <polygon
-           fill="#f9e491"
-           points="3.3,5.2 2.7,4 1.5,3.3 2.7,2.7 3.3,1.5 4,2.7 5.2,3.3 4,4 "
-           stroke="none"
-           stroke-miterlimit="10"
-           id="polygon17" />
-      </g>
-      <g
-         class="am-weather-star-1"
-         id="g23">
-        <polygon
-           fill="#f9e491"
-           points="3.3,5.2 2.7,4 1.5,3.3 2.7,2.7 3.3,1.5 4,2.7 5.2,3.3 4,4 "
-           stroke="none"
-           stroke-miterlimit="10"
-           transform="translate(20,10)"
-           id="polygon21" />
-      </g>
-      <g
-         class="am-weather-moon"
-         id="g27">
-        <path
-           d="m 14.5,13.2 c 0,-3.7 2,-6.9 5,-8.7 -1.5,-0.9 -3.2,-1.3 -5,-1.3 -5.5,0 -10,4.5 -10,10 0,5.5 4.5,10 10,10 1.8,0 3.5,-0.5 5,-1.3 -3,-1.7 -5,-5 -5,-8.7 z"
-           fill="#f9e491"
-           stroke="#f9e491"
-           stroke-linejoin="round"
-           stroke-width="2"
-           id="path25" />
-      </g>
-    </g>
-  </g>
+  <path
+     class="cls-1"
+     d="M 41.271309,40.978176 A 21.894556,21.894556 0 0 1 22.184968,12.667563 0.95193722,0.95193722 0 0 0 20.766581,11.582354 21.894556,21.894556 0 1 0 50.666929,41.482702 0.95193722,0.95193722 0 0 0 49.581721,40.083355 21.951672,21.951672 0 0 1 41.271309,40.978176 Z"
+     id="path8"
+     style="stroke-width:0.951937" />
 </svg>

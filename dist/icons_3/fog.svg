@@ -81,60 +81,7 @@
     <style
        type="text/css"
        id="style17"><![CDATA[
-/*
-** RAIN
-*/
-@keyframes am-weather-rain {
-  0% {
-    stroke-dashoffset: 0;
-  }
 
-  100% {
-    stroke-dashoffset: -100;
-  }
-}
-
-.am-weather-rain-1 {
-  -webkit-animation-name: am-weather-rain;
-     -moz-animation-name: am-weather-rain;
-      -ms-animation-name: am-weather-rain;
-          animation-name: am-weather-rain;
-  -webkit-animation-duration: 8s;
-     -moz-animation-duration: 8s;
-      -ms-animation-duration: 8s;
-          animation-duration: 8s;
-  -webkit-animation-timing-function: linear;
-     -moz-animation-timing-function: linear;
-      -ms-animation-timing-function: linear;
-          animation-timing-function: linear;
-  -webkit-animation-iteration-count: infinite;
-     -moz-animation-iteration-count: infinite;
-      -ms-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-}
-
-.am-weather-rain-2 {
-  -webkit-animation-name: am-weather-rain;
-     -moz-animation-name: am-weather-rain;
-      -ms-animation-name: am-weather-rain;
-          animation-name: am-weather-rain;
-  -webkit-animation-delay: 0.25s;
-     -moz-animation-delay: 0.25s;
-      -ms-animation-delay: 0.25s;
-          animation-delay: 0.25s;
-  -webkit-animation-duration: 8s;
-     -moz-animation-duration: 8s;
-      -ms-animation-duration: 8s;
-          animation-duration: 8s;
-  -webkit-animation-timing-function: linear;
-     -moz-animation-timing-function: linear;
-      -ms-animation-timing-function: linear;
-          animation-timing-function: linear;
-  -webkit-animation-iteration-count: infinite;
-     -moz-animation-iteration-count: infinite;
-      -ms-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-}
         ]]></style>
   </defs>
   <g
