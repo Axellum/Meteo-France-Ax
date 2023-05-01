@@ -41,9 +41,6 @@ Icônes fixes blancs (variation 01):
 /local/community/lovelace-meteofrance-weather-card/icons_2/
 ```
 
-Les icônes fixe viennent de https://icon-icons.com/fr/pack/The-Weather-is-Nice-Today/1370, création de Laura Reen. J'ai parfois apporté de légère modifications.
-Les icônes animés bleus sont issus de https://www.amcharts.com/free-animated-svg-weather-icons/, avec modifications sur certain pour les compléter.
-Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-colorfulclouds-weather-card, avec modifications de positionnement.
 
 ### Icones animés bleus:
 ![](/dist/icons/day.svg)
@@ -152,3 +149,9 @@ Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-color
 ![](/dist/icons_4/snowy-6.svg)
 ![](/dist/icons_4/snowy-rainy.svg)
 ![](/dist/icons_4/thunder.svg)
+
+
+
+Les icônes fixe viennent de https://icon-icons.com/fr/pack/The-Weather-is-Nice-Today/1370, création de Laura Reen. J'ai parfois apporté de légère modifications.
+Les icônes animés bleus sont issus de https://www.amcharts.com/free-animated-svg-weather-icons/, avec modifications sur certain pour les compléter.
+Les icônes animés blancs arrivent de https://github.com/fineemb/lovelace-colorfulclouds-weather-card, avec modifications de positionnement.
