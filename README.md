@@ -6,6 +6,13 @@ Complément pour la carte https://github.com/hacf-fr/lovelace-meteofrance-weathe
 - Ajout de nouveaux jeux d'icônes (resortent mieux avec un thème sombre), possibilitée de remettre les icones d'origine (complété).
 - Différentiation des icônes sur certains arguments (Brouillard, Orage pluvieux, Pluie-neige, venteux), sur tout les jeux d'icônes.
 
+
+## Installation:
+
+1/ Ajouter les dossiers avec les nouvelles icones disponible dans le dossier "disp" dans le dossier "/config/www/community/lovelace-meteofrance-weather-card/" de votre Home Assitant par ftp.
+
+2/ Choisissez votre jeux d'icones:
+
 Icônes animées bleus: 
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons/ 
@@ -29,16 +36,6 @@ Icônes fixe blancs:
 Icônes fixes blancs (variation 01): 
 ```yaml
 /local/community/lovelace-meteofrance-weather-card/icons_4/ 
-```
-
-
-## Installation:
-
-1/ Ajouter les dossiers avec les nouvelles icones disponible dans le dossier "disp" dans le dossier "/config/www/community/lovelace-meteofrance-weather-card/" de votre Home Assitant par ftp.
-
-2/ Choisissez votre jeux d'icones, example:
-```yaml
-/local/community/lovelace-meteofrance-weather-card/icons_2/
 ```
 
 
